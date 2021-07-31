@@ -1,2 +1,2 @@
 # hello-world
-My first got repository. Time to explore. 
+My first Git repository. Time to explore. 
